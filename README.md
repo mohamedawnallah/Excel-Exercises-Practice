@@ -1,8 +1,8 @@
+# **Excel Skills for Business**
 
+_Excel Skills for Business Essentials_:
 
-` `*Excel Skills for Business Essentials*:
-
-`	`1st Week:
+1st Week:
 
 - Excel User Interface
 - Key Terminology
@@ -10,52 +10,52 @@
 - Working with Data
 - Fill Handle
 
-`	`2nd Week:
+2nd Week:
 
 - Formulas
 - Functions
 - More Functions
-- Relative & Absolute Cell References
+- Relative &amp; Absolute Cell References
 
-`	`3rd Week:
+3rd Week:
 
 - Font Formatting
 - Borders
 - Alignment
 - Format Painter
 - Number Formatting
-- Styles & Themes
+- Styles &amp; Themes
 
-`	`4th Week:
+4th Week:
 
-- Managing rows & columns
-- Find & replace
-- Filter & sort
+- Managing rows &amp; columns
+- Find &amp; replace
+- Filter &amp; sort
 - Conditional Formatting
 
-`	`5th Week:
+5th Week:
 
 - Print preview
-- Margins, scale & orientation
+- Margins, scale &amp; orientation
 - Page breaks
-- Headers & Footers
+- Headers &amp; Footers
 
-`	`6th Week:
+6th Week:
 
 - Basic Charts
 - Chart Styles
 - Chart Types
 
------
+—-------
 
-` `*Excel Skills for Business*: Intermediate I:
+_Excel Skills for Business_: Intermediate I:
 
-`	`1st Week:
+1st Week:
 
 - Multiple Worksheets:
-  - Group Sheets 
+  - Group Sheets
   - Sheets, tabs manipulations (Deleting - Inserting - Copying - moving -renaming - hiding - unhiding)
-- ` `3D Formulas:
+- 3D Formulas:
   - 3D Formulas vs 2D Formulas
   - Summing values across multiple worksheets where the structure is the same
 - Linking Workbooks:
@@ -67,5 +67,3 @@
   - Not updated dynamically of data
   - You can run it multiple times to update data.
   - Consolidation by References (Categories) from different worksheets that may not be typically identical
-
-
