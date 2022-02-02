@@ -46,7 +46,7 @@ _Excel Skills for Business Essentials_:
 - Chart Styles
 - Chart Types
 
-—-------
+-----
 
 _Excel Skills for Business_: Intermediate I:
 
