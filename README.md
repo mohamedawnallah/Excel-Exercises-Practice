@@ -67,3 +67,26 @@ _Excel Skills for Business_: Intermediate I:
   - Not updated dynamically of data
   - You can run it multiple times to update data.
   - Consolidation by References (Categories) from different worksheets that may not be typically identical
+
+2nd Week:
+
+- Combining Text:
+  - Concat Function
+  - Ampersand symbol
+- Text Case:
+  - LOWER Function
+  - UPPER Function
+  - PROPER Function
+- Extracting Text:
+  - LEFT Function
+  - MID Function
+  - Right Function
+  - MID(text,start\_num,num\_chars)
+- Finding Text:
+  - FIND(find\_text,within\_text,num\_chars)
+- Date Calculations:
+  - NOW Function
+  - TODAY Function
+  - YEARFRAC Function
+  - **CTRL + ;** to insert current date in a cell
+  - **CTRL + :** to insert current time in a cell
