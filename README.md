@@ -90,3 +90,26 @@ _Excel Skills for Business_: Intermediate I:
   - YEARFRAC Function
   - **CTRL + ;** to insert current date in a cell
   - **CTRL + :** to insert current time in a cell
+
+3rd Week:
+
+- Named Ranges:
+  - Name Box (Don&#39;t Use Hyphen or a space)
+  - Any three letters followed by a number gives us a cell reference
+  - Named Range gives us automatically the absolute cell reference
+  - Name Box is not used to change the named range
+- Create and Manage Ranges:
+  - CMD + SHIFT + Down Arrow to select data in column till you hit a blank cell
+  - Three ways to create name ranges:
+    - Name Box
+    - Define Names from Formula Tab
+    - Create from Selection from Formula Tab
+  - Managing Named Ranges:
+    - Name Manager in Formulas Tab (Not for Mac Users) but Mac users can get simpler version through Define names in formula tab
+- Apply Ranges to Formulas:
+  - To get all named ranges, press F3
+- Apply Names:
+  - CMD + SHIFT + F3 -\&gt; Create Named Ranges from Selection
+  - Apply Names is sublabeled in Define Name button in Formulas tab
+  - As our workbooks gets complex it becomes more necessary to past all named ranges list by clicking F3 -\&gt; Paste List
+  - Implicit Difference &amp; At Symbol @
