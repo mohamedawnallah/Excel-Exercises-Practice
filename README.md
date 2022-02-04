@@ -113,3 +113,37 @@ _Excel Skills for Business_: Intermediate I:
   - Apply Names is sublabeled in Define Name button in Formulas tab
   - As our workbooks gets complex it becomes more necessary to past all named ranges list by clicking F3 -\&gt; Paste List
   - Implicit Difference &amp; At Symbol @
+
+4th Week:
+
+- COUNT and COUNTIFS:
+  - To extract some meaning from the data, we need to create these summary reports
+  - COUNTIFS count the number of times &quot;certain criterias&quot; is met
+  - SUMIFS sums a range based on &quot;certain criterias&quot;
+  - In absolute cell references, we lock the column and we lock the row
+  - Mixed cell references, we may lock the column but not the row or we can lock the row, but not the column
+  - COUNT function counts all cells that contain a numeric value all empty cells are ignored
+  - COUNTA Function counts all cells that contain both numerical and alphanumerical data all empty cells are ignored
+  - COUNTBLANK function counts all empty cells
+  - COUNTIFS needs two arguments (at least):
+    - Criteria\_Range
+    - Criteria1
+    - For COUNTIFS, text and expressions must be within quotation marks
+- SUMIFS(More than one criteria ranges, criteria):
+  - SUM\_RANGE
+  - CRITERIA\_RANGE 1
+  - CRITERIA1
+- Sparklines:
+  - Sparklines are min-charts that fit in a Single Cell
+  - Insert Tab then Sparklines
+  - Sparklines are grouped together
+- Advanced Charting:
+  - Switching Row / Column
+  - Select Data
+  - Change Chart Type
+  - Secondary Axis
+  - Combo Chart (supported with line one overlay first axis)
+- Trendlines:
+  - Adjusting Vertical Scale through Formatting Axis
+  - Add Trendline for Exponential, Linear, Logarithmic, Power Functions
+  - R^2 closer to one the more it&#39;s linear
