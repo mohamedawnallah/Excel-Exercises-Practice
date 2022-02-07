@@ -191,3 +191,47 @@
   - Feature in Excel that summarizes subsections of your data
   - We need to convert our table back to range
   - Subtotal creates outline on the left
+
+## 6th Week:
+
+- Pivot Tables:
+  - Another way of summarizing and filtering large amounts of information to produce useful reports
+  - It is Nicky Reccomendation to put data first in table before making Pivot tables as it makes Pivot Table much more responsive to changes
+  - When you create pivot tables and click on it there are two ribbon tabs added:
+    - PivotTable Analyze
+    - Design
+  - Pivot Tables are easily be pivoted or changed to get different views on the data
+- Create and modify a pivot:
+  - Insert then Create Pivot Tables
+  - You can use Refresh Button in PivotTable Analyze Ribbon Tab
+  - Show Values as (Percentage,...etc)
+  - Summarize Values by(COUNT,SUM,...etc)
+  - When you add two or more values to Rows, Columns you get subtotals
+  - Report Layout:
+    - Compact Form (By Default)
+    - Outline Form
+    - Tabular Form
+- Group and Filter Data:
+  - Group:
+    - PivotTable Analyze then Group Selection
+    - You can Ungroup by going to PivotTable Analyze Ribbon Tab then Ungroup
+  - Sorting:
+    - You can sort Data: click anywhere in pivot Table Area then Data Ribbon Tab then Sort
+  - Filtering:
+    - By Row
+    - By Columns
+    - Filters Panel
+    - Show Report Filter Pages
+    - Field List Button in Pivot table Analyze Ribbon Tab
+    -
+- Charts and Slicers:
+  - Charts:
+    - Pivot Table Analyze then Select Pivot Chart
+    - The Pivot Charts always represent the Pivot Table
+  - Slicers:
+    - Another way of Filtering Data but they are incredibly easy to use
+    - Analyze then Insert Slicer
+    - You can connect slicers to multiple pivots
+  - Pivot Tables + Pivot Charts + Pivot Slicers:
+    - Interactive Visual Reports
+    - Powerful Dashboards
