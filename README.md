@@ -1,8 +1,8 @@
 # **Excel Skills for Business**
 
-_Excel Skills for Business Essentials_:
+## _Excel Skills for Business Essentials_:
 
-1st Week:
+## 1st Week:
 
 - Excel User Interface
 - Key Terminology
@@ -10,14 +10,14 @@ _Excel Skills for Business Essentials_:
 - Working with Data
 - Fill Handle
 
-2nd Week:
+## 2nd Week:
 
 - Formulas
 - Functions
 - More Functions
 - Relative &amp; Absolute Cell References
 
-3rd Week:
+## 3rd Week:
 
 - Font Formatting
 - Borders
@@ -26,21 +26,21 @@ _Excel Skills for Business Essentials_:
 - Number Formatting
 - Styles &amp; Themes
 
-4th Week:
+## 4th Week:
 
 - Managing rows &amp; columns
 - Find &amp; replace
 - Filter &amp; sort
 - Conditional Formatting
 
-5th Week:
+## 5th Week:
 
 - Print preview
 - Margins, scale &amp; orientation
 - Page breaks
 - Headers &amp; Footers
 
-6th Week:
+## 6th Week:
 
 - Basic Charts
 - Chart Styles
@@ -48,9 +48,9 @@ _Excel Skills for Business Essentials_:
 
 -----
 
-_Excel Skills for Business_: Intermediate I:
+## _Excel Skills for Business_: Intermediate I:
 
-1st Week:
+## 1st Week:
 
 - Multiple Worksheets:
   - Group Sheets
@@ -68,7 +68,7 @@ _Excel Skills for Business_: Intermediate I:
   - You can run it multiple times to update data.
   - Consolidation by References (Categories) from different worksheets that may not be typically identical
 
-2nd Week:
+## 2nd Week:
 
 - Combining Text:
   - Concat Function
@@ -91,7 +91,7 @@ _Excel Skills for Business_: Intermediate I:
   - **CTRL + ;** to insert current date in a cell
   - **CTRL + :** to insert current time in a cell
 
-3rd Week:
+## 3rd Week:
 
 - Named Ranges:
   - Name Box (Don&#39;t Use Hyphen or a space)
@@ -114,7 +114,7 @@ _Excel Skills for Business_: Intermediate I:
   - As our workbooks gets complex it becomes more necessary to past all named ranges list by clicking F3 -\&gt; Paste List
   - Implicit Difference &amp; At Symbol @
 
-4th Week:
+## 4th Week:
 
 - COUNT and COUNTIFS:
   - To extract some meaning from the data, we need to create these summary reports
@@ -147,3 +147,47 @@ _Excel Skills for Business_: Intermediate I:
   - Adjusting Vertical Scale through Formatting Axis
   - Add Trendline for Exponential, Linear, Logarithmic, Power Functions
   - R^2 closer to one the more it&#39;s linear
+
+## 5th Week:
+
+- Create and Format Tables:
+  - Table:
+    - Hold database-style data
+    - Column represents a field that contains a particular type of information
+    - Record represents entire information about customer, or one transaction
+    - Table Tab:
+      - Contextual Ribbon Tab
+      - Table Name
+      - Banded Rows
+      - …etc features
+    - Tables vs Ranges:
+      - Tables:
+        - Selection of Data is easier a lot than in Ranges
+        - No need to worry about Freezing Panes when working with Tables
+        - We&#39;re really looking to use them whenever we&#39;re working with raw data entries
+        - It comes to trouble, when you&#39;re looking to create summaries of sections inside your table
+      - Ranges:
+        - Selection of Data is harder than in Tables
+        - You need to worry about Freezing panes
+        - Subtotal tool is available here
+- Sort and Filter in Tables:
+  - Removing Duplicates:
+    - Table =\&gt; Remove Duplicates
+  - Accessing Sort Function:
+    - Sorting:
+      - Table =\&gt; Filter Button
+      - Data Tab
+      - Home Tab
+      - Right Click =\&gt; Sort
+      - Header Row
+  - Total Row
+  - It is good practice to always clear filters,especially when you work in a shared Environment
+- Automation:
+  - Named Ranges are Automated with Table
+  - CTRL SHIFT + Shortcut for adding new Row
+  - Named Ranges Extend Automatically in Tables Not in Ranges
+  - Charts Update automatically when they are attached to tables Unlike Ranges
+- Subtotalling:
+  - Feature in Excel that summarizes subsections of your data
+  - We need to convert our table back to range
+  - Subtotal creates outline on the left
