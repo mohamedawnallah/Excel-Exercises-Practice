@@ -235,3 +235,33 @@
   - Pivot Tables + Pivot Charts + Pivot Slicers:
     - Interactive Visual Reports
     - Powerful Dashboards
+
+-----
+
+## _Excel Skills for Business_: Intermediate II:
+
+## 1st Week:
+
+- Data Validation:
+  - **Garbage In, Garbage Out:** The Quality of Information coming out cannot be better than the quality of information that went in
+  - **Data Entry Validation**
+  - Once **error**** gets **into our data, It can prove** problematic **to get** reliable ****information** from that data
+  - Data then Data Validation Tool then choose validation criteria, Excel will only permit according to validation criteria
+  - If the data is copy-pasted, or imported, it actually doesn&#39;t enforce data validation rules
+- Drop-Down Lists:
+  - Data then Data Validations then &quot;List&quot; Validation Criteria
+  - Drop-Down List will be populated in the order you type it in
+  - Make sure you separate your values with a comma
+  - Look Up Down List
+  - Advantage of converting your lookup list into a named range and table
+  -
+- Formulas in Data Validation:
+- Working with Data Validations:
+  - To Clear Validations, Select Column you wanna remove validations from, Data, Data Validations Button, finally Select Clear All
+  - To Circle Invalid Data, Select Data Ribbon Tab, Data Validations arrow, Circle Invalid Data
+  - If you&#39;re not familiar with the Excel file, you don&#39;t know where are Data Validations found, Formulas Assigned so it is easy to find by going to Home Ribbon Tab, Find &amp; Select Arrow, Go To Special, Check Data Validation
+  - **Paste Special**
+  - As you are working with Table, Data Validations Expands with you as you added new rows
+  - **Formulas + Data Validations**
+  - **Conditional Formatting + Data Validations**
+  - Whole numbers don&#39;t include negative numbers, fractions, or decimals.
